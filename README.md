@@ -2,7 +2,7 @@
 
 This is junior programmer study project.
 
-Site published at --> [Click here](https://teklithuania.github.io/7-battery-bar-2/index.html)
+Site published at --> [Click here](https://teklithuania.github.io/7-battery-bar/index.html)
 
 
 ### Authors
